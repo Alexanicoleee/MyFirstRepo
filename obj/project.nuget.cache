@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6HG7NtRBUo75+rtTldTOMs2v2aBeof1EceavOJGgCr+l8jph0rYCG5oguasTpm7tNVz3M9dmTP7cIX5Sncbjqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexandra.cajes\\source\\repos\\MyFirstRepo\\MyFirstRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandra.cajes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
